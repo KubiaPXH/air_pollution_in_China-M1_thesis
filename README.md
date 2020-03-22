@@ -1,7 +1,6 @@
 # Memoire-M1
 
-This is our M1 thesis which is working on the subject of Air Pollution in China
-A line I wrote on my local pc
-Another line I wrote on my local pc
-This is a line from Rstudio
-Push somthing new from Rstudio
+
+
+I'm thinking to add the cool line but I'm not having a good idea right now :v.
+Anything suggestion?
