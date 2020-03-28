@@ -37,5 +37,6 @@ columns = {'index':'variable', 0:'types'}).to_csv('data_pm_china_10_17.csv',
 | post            | int64   |Dummy Variable (1 if year >= 2013*)|      |         |
 | key_regions     | int64   |Dummy Variable (1 if city is belong to 3 key regions**)|        |         |
 
-* Air Pollution Control and Action Plan was first implemented in 2013
-** 3 key regions of the Action Plan are Beijing-Tianjin-Hebei (BTH), Yangtze River Delta (YRD) and Pearl River Delta (PRD).
+(*) Air Pollution Control and Action Plan was first implemented in 2013
+
+(**) 3 key regions of the Action Plan are Beijing-Tianjin-Hebei (BTH), Yangtze River Delta (YRD) and Pearl River Delta (PRD).
