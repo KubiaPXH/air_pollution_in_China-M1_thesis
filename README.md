@@ -7,8 +7,8 @@
 - [Data Catalogue](https://github.com/KubiaPXH/Memoire-M1/tree/master/Data_Catalogue)
   - what is the meaning of the variables
   - where the variables comes from
-- [Data preprocessing](https://github.com/KubiaPXH/Memoire-M1/tree/master/Data preprocessing)
+- [Data preprocessing](https://github.com/KubiaPXH/Memoire-M1/tree/master/Data_preprocessing)
   - How the dataset is constructed
-- [Data Analysis](https://github.com/KubiaPXH/Memoire-M1/tree/master/Data Analysis)
+- [Data Analysis](https://github.com/KubiaPXH/Memoire-M1/tree/master/Data_Analysis)
   - Link to Data analysis notebook
 
