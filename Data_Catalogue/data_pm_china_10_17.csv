@@ -1,0 +1,13 @@
+variable,types,label,source,comment
+city,object,,,
+year,int64,,,
+PM10,int64,,,
+SO2,int64,,,
+NOx,int64,,,
+pop_density,float64,,,
+GRP_pc,int64,,,
+second_industry,float64,,,
+gas_supply,int64,,,
+green_coveraged,float64,,,
+post,int64,,,
+key_regions,int64,,,
