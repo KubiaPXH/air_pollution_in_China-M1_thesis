@@ -11,3 +11,7 @@ Pearl River Delta region shall respectively fall by around 25%, 20% and 15%. Fin
 annual concentration in Beijing shall be controlled below 60 micrograms per cubic meter.
 
 Page 3 [document](https://github.com/KubiaPXH/Memoire-M1/blob/master/Documentation/Air%20pollution%20control%20and%20action%20plan.pdf)
+
+## Strategy analysis
+
+[Article](https://drive.google.com/drive/u/0/folders/0B4f8KrswkKxIMWtaSlpnbW5Wbkk) about Diff in Diff model and robustness test of parallel trend assumption by Pischke (search for "what you need!").
