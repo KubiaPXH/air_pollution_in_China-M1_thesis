@@ -14,4 +14,4 @@ Page 3 [document](https://github.com/KubiaPXH/Memoire-M1/blob/master/Documentati
 
 ## Strategy analysis
 
-[Article](https://drive.google.com/drive/u/0/folders/0B4f8KrswkKxIMWtaSlpnbW5Wbkk) about Diff in Diff model and robustness test of parallel trend assumption by Pischke (search for "what you need!").
+[Article](https://drive.google.com/file/d/1sGOhZEliCDLpszyuVlgXfM4Xu_KCB5Q9/view?usp=sharing) about Diff in Diff model and robustness test of parallel trend assumption by Pischke (search for "what you need!").
