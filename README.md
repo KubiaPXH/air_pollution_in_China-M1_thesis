@@ -20,6 +20,6 @@ We want to express our gratefulness for Thomas Pernet who supported and guided u
   - [processed](https://github.com/KubiaPXH/effectiveness_of_APPCAP-M1_thesis/tree/master/data/processed): final dataset for modeling
 - [graphs](https://github.com/KubiaPXH/effectiveness_of_APPCAP-M1_thesis/tree/master/graphs): generated graphics and figures to be used in the thesis
 - [references](https://github.com/KubiaPXH/effectiveness_of_APPCAP-M1_thesis/tree/master/references): related documentations with the thesis
-- [scr](https://github.com/KubiaPXH/effectiveness_of_APPCAP-M1_thesis/tree/master/scr)
+- [scr](https://github.com/KubiaPXH/effectiveness_of_APPCAP-M1_thesis/tree/master/scr): source code for use in this project
   - [code](https://github.com/KubiaPXH/effectiveness_of_APPCAP-M1_thesis/tree/master/scr/code): code for ploting and running econometrics model
   - [notebook](https://github.com/KubiaPXH/effectiveness_of_APPCAP-M1_thesis/tree/master/scr/notebook): jupiter notebook with code for ploting and running econometrics model
