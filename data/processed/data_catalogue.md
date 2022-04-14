@@ -4,22 +4,6 @@ Mains sources of the data:
 - The data of air pollution (PM10, SO2, NOx) of 30 major cities are obtained from the China Statistical Yearbook (CSY) (http://data.stats.gov.cn/english/publish.htm?sort=1)
 - The data of control variables are obtained from the China City Statistical Yeabook (CCSY)(http://data.cnki.net/yearbook/Single/N2019070173)
 
-
-In case you need it, here is the Python code to make the table below
-
-```python
-path = "https://raw.githubusercontent.com/KubiaPXH/Memoire-M1/" \
-"master/data/final_air_pollution_30cities.csv"
-pd.read_csv(path).dtypes.to_frame().assign(
-    label = '',
-    source = '',
-comment = '').reset_index().rename(
-columns = {'index':'variable', 0:'types'}).to_csv('data_pm_china_10_17.csv',
-                                                  index = False)
-```
-
-
-
 ## Data table
 
 | variable        | types   | label | source | comment |
