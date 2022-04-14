@@ -1,6 +1,6 @@
-## Introduction of this repo
+## Introduction
 
-This a repo for the master thesis "Effectiveness of "Air Pollution Prevention and Control Action Plan": A Comparison Between Key Regions and Other Regions".
+This a repo for the master thesis **Effectiveness of "Air Pollution Prevention and Control Action Plan": A Comparison Between Key Regions and Other Regions** by Soren ZEMMOUR and PHAM Xuan Huy.
 
 The pdf of the thesis can be found [here](https://www.linkedin.com/in/pxhuy/overlay/1635488194851/single-media-viewer/)
 
