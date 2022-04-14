@@ -2,7 +2,7 @@
 
 Mains sources of the data:
 - The data of air pollution (PM10, SO2, NOx) of 30 major cities are obtained from the China Statistical Yearbook (CSY) (http://data.stats.gov.cn/english/publish.htm?sort=1)
-- The data of control variables are obtained from the China City Statistical Yeabook (CCSY)(http://data.cnki.net/yearbook/Single/N2019070173
+- The data of control variables are obtained from the China City Statistical Yeabook (CCSY)(http://data.cnki.net/yearbook/Single/N2019070173)
 
 
 In case you need it, here is the Python code to make the table below
